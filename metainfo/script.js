@@ -34,7 +34,8 @@ document.addEventListener('DOMContentLoaded', () => {
         "MCT2.2.m4a is my single named MCTwo that's going to come out soon which can be seen on my distributor in the photo IMG_5562.",
         "My distributor is very slow so the single is currently in QC (quality check).",
         "That's all.",
-        "Regards, QZQC"
+        "email:kkaann@my.com",
+        "Regards, qzqc"
     ];
 
     const linkList = document.getElementById('link-list');
